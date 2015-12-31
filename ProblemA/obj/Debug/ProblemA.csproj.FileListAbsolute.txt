@@ -1,0 +1,6 @@
+C:\dev\workspace\repo\ProblemA\ProblemA\bin\Debug\ProblemA.exe.config
+C:\dev\workspace\repo\ProblemA\ProblemA\bin\Debug\ProblemA.exe
+C:\dev\workspace\repo\ProblemA\ProblemA\bin\Debug\ProblemA.pdb
+C:\dev\workspace\repo\ProblemA\ProblemA\obj\Debug\ProblemA.exe
+C:\dev\workspace\repo\ProblemA\ProblemA\obj\Debug\ProblemA.pdb
+C:\dev\workspace\repo\ProblemA\ProblemA\obj\Debug\ProblemA.csprojResolveAssemblyReference.cache
